@@ -1,1 +1,137 @@
 
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Verkefni1</title>
+		
+<link rel="stylesheet" type="text/css" href="verkefni12.css">
+
+</head>
+<body>
+<h1  style="font-size: 200%"><p style="font-size: 50">Aðalfyrirsögn</p></h1>
+<h2  style="font-size: 170%"><p style="font-size: 50">Undirfyrirsögn</p></h2>
+<h3  style="font-size: 150%"><p style="font-size: 50">Millifyrirsögn</p></h3>
+<h4  style="font-size: 100%"><p style="font-size: 50">Áherslutexti</p></h4>
+<p style="font-size: 100%">Meiginmál</p>
+<h5 style="font-size: 75%"><p style="font-size: 50">Undirmálstexti</p></h5>
+<h6 style="font-size: 50%"><p style="font-size: 50">smáa letrið, sem ekki á að lesa</p></h6>
+<br>
+<hr>
+<br>
+
+<p><em><strong>Imagine</strong>
+there's no heaven <br>
+It's easy if you try <br>
+No hell below us <br>
+Above us only sky <br>
+Imagine all the people <br>
+Living for today... <br> <br>
+
+<strong>Imagine</strong> 
+there's no countries <br>
+It isn't hard to do <br>
+Nothing to kill or die for <br>
+And no religion too <br>
+Imagine all the people <br>
+Living life in <strong>peace...</strong><br>
+
+© & ® Allur réttur áskilinn John Lennon 
+
+</em></p>
+
+<br>
+<hr>
+<br>
+
+<ol>
+	<li> Nemandi skal ljúka 9 einingum á önn hið minnsta </li>
+	<li>  Heimilt er að víkja frá þessu ákvæði ef um er að ræða:
+		<ul>
+			<li>Sérstaka erfiðleika í námi, svo sem lesröskun eða fötlun.</li>
+			<li>Lokaönn í námi.</li>
+			<li>Nemendur á námssamningi</li>
+			<li>Nemendur á fyrstu önn í námi.</li>
+		</ul> </li>
+	<li> Nemandi sem fellur á önn fær aðeins heimild til innritunar á næstu önn hafi hann haft meira en 70% mætingu á önninni og geri samning um ástundun og skólasókn.</li>
+	<li>Nemandi sem fallið hefur á tveimur önnum í röð eða þrem önnum samtals fær ekki skólavist á næstu önn.</li>
+	<li>Falli nemandi á önn á hann rétt á að láta þá áfanga standa þar sem hann hefur fengið einkunnina 5</li>
+</ol>
+
+<br>
+<hr>
+<br>
+
+<h1><p style="font-size: 50"><strong>ELVIS PRESTLEY KONUNGUR ROKKSINS</strong> </p></h1>
+<p><em><strong>Elvis Presley</strong></em>fæddist 8. <sub>janúar</sub> 1935 í Tupelo, Mississipifylki í Bandaríkjunum. Fyrir tónlistaráhugamenn má geta þess að önnur breiðskífa Nick Cave & The Bad Seeds heitir The Firstborn is Dead sem vísar til þess að Elvis átti tvíburabróður sem fæddist andvana, og fyrsta lag skífunnar heitir einmitt „Tupelo“ eftir fæðingarbæ Elvis</p>
+
+<p><strong>Elvis</strong>er opinberlega sagður hafa látist í Memphis, Tennessefylki, <sup>16 agúst 1977</sup>, 42 ára að aldri. Hann væri 76 ára gamall ef hann væri lifandi í dag (árið 2011). Samkvæmt frásögnum náinna vina og samstarfsmanna Elvis, fannst hann látinn inni á baðherbergi á setri sínu Graceland. Út frá því hafa sprottið ýmsar útgáfur af andlátsorðum hans og örugglega allar skáldskapur.</p>
+
+<p><strong>Elvis</strong>átti erfitt með svefn síðustu æviár sín og til að trufla ekki unnustu sína, Grace Alden, í svefnherberginu, fór hann stundum inn á baðherbergi á kvöldin til að geta lesið í friði. Þess vegna halda margir því fram að hans síðustu orð hafi verið:<em> „I think I’ll go to the bathroom to read“</em>eða eitthvað í þá áttina</p>
+<hr>
+
+<h1 class="blue"> <center> Aðalfyrirsögn </center> </h1>
+<h2 class=".redbrown"> Undirfyrirsögn </h2>
+<h3> <strong> Millifyrirsögn </strong> </h3>
+<h4> <strong> Áherslutexti </strong> </h4> 
+<h5> Málsgrein </h5>
+<h5> Body texti <span class="red">- Body texti er í sömu stærð og Málsgrein</span> </h5>
+<h5>Undirmálstexti</h5>
+<h6>smá letrið sem ekki á að lesa</h6>
+
+<br>
+<hr>
+<br>
+
+<h4 class="blue"><em>
+<h3> Imagine </h3>
+<span class="red">Imagine</span> there's no heaven <br>
+It's easy if you try <br>
+No hell below us <br>
+Above us only sky <br>
+Imagine all the people <br>
+Living for today... <br> <br>
+
+<span class="red">Imagine</span>
+there's no countries <br>
+It isn't hard to do <br>
+Nothing to kill or die for <br>
+And no religion too <br>
+Imagine all the people <br>
+Living life in <strong>peace...</strong><br></em>
+
+
+© & ® Allur réttur áskilinn John Lennon </h4>
+
+<h1 class="blue"><center> Námskröfur </center></h1>
+<ol>
+	<li> Nemandi skal ljúka 9 einingum á önn hið minnsta </li>
+	<li>  Heimilt er að víkja frá þessu ákvæði ef um er að ræða:
+		<ul>
+			<li class="green">Sérstaka erfiðleika í námi, svo sem lesröskun eða fötlun.</li>
+			<li class="green">Lokaönn í námi.</li>
+			<li class="green">Nemendur á námssamningi</li>
+			<li class="green">Nemendur á fyrstu önn í námi.</li>
+		</ul> </li>
+	<li> Nemandi sem fellur á önn fær aðeins heimild til innritunar á næstu önn hafi hann haft meira en 70% mætingu á önninni og geri samning um ástundun og skólasókn.</li>
+	<li>Nemandi sem fallið hefur á tveimur önnum í röð eða þrem önnum samtals fær ekki skólavist á næstu önn.</li>
+	<li>Falli nemandi á önn á hann rétt á að láta þá áfanga standa þar sem hann hefur fengið einkunnina 5</li>
+</ol>
+
+<br>
+<hr>
+<br>
+
+<h1><p style="font-size: 50"> <span class="red"> ELVIS PRESTLEY KONUNGUR ROKKSINS </span></p></h1>
+<p><em><span class="red">Elvis Presley</span></em> fæddist 8. <sub>janúar</sub> 1935 í Tupelo, Mississipifylki í Bandaríkjunum. Fyrir tónlistaráhugamenn má geta þess að önnur breiðskífa Nick Cave & The Bad Seeds heitir The <span class="blue"> "Firstborn is Dead" </span> sem vísar til þess að Elvis átti tvíburabróður sem fæddist andvana, og fyrsta lag skífunnar heitir einmitt „Tupelo“ eftir fæðingarbæ Elvis</p>
+
+<p><span class="red"> Elvis</span> er opinberlega sagður hafa látist í Memphis, Tennessefylki, <sup>16 agúst 1977</sup>, 42 ára að aldri. Hann væri 76 ára gamall ef hann væri lifandi í dag (árið 2011). Samkvæmt frásögnum náinna vina og samstarfsmanna Elvis, fannst hann látinn inni á baðherbergi á setri sínu Graceland. Út frá því hafa sprottið ýmsar útgáfur af andlátsorðum hans og örugglega allar skáldskapur.</p>
+
+<p><span class="red">Elvis</span> átti erfitt með svefn síðustu æviár sín og til að trufla ekki unnustu sína, Grace Alden, í svefnherberginu, fór hann stundum inn á baðherbergi á kvöldin til að geta lesið í friði. Þess vegna halda margir því fram að hans síðustu orð hafi verið:<em> „I think <span class="blue"> I’ll go to the bathroom to read“</span></em>eða eitthvað í þá áttina</p>
+
+<br>
+<hr>
+<br>
+
+<a href="verkefni1-2.html">
+	<button>click me, I'm not a virus ;P</button>
+</a>
