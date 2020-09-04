@@ -1,1 +1,18 @@
 
+.red {
+	color: red;
+
+}
+
+.blue
+{
+	color: blue;
+}
+
+.green {
+	color: green;
+}
+
+.redbrown {
+	color: #A52A2A;
+}
