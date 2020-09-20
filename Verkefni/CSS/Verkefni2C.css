@@ -1,0 +1,34 @@
+h1.borderone {
+	border-spacing: 0;
+	background-color: white;
+	border: 2px solid;
+	width: 493px;
+	
+	float: left;
+	padding: 2px;
+	margin: 0;
+
+
+	
+}
+div.normal {
+	font-weight: normal;
+	
+	
+}
+th.bordertwo {
+	background-color: white;
+	border: 2px solid;
+	width: 747px;
+	display: block;
+	float: left;
+   
+}
+div.spacing {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+body {
+	padding: 0;
+}
