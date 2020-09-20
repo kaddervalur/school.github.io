@@ -1,1 +1,31 @@
 
+h1.firstborder {
+	
+	background-color: white;
+	width: 1480;
+	border:3px solid green;
+	padding: 1em;
+	margin: 1em;
+	border-style: dashed;
+	display: block;
+}
+h1.bordertwo {
+	display: inline;
+	background-color: white;
+	width: 200px;
+	padding: 1em;
+	margin: 1em;
+	border: 3px dashed blue; 
+	float; left;
+
+}
+h1.thirdborder {
+	background-color: white;
+	width: 200px;
+	border:3px solid red;
+	padding: 1em;
+	margin: 1em;
+	border-style: dashed;
+	display: block;
+	float: left;
+}
